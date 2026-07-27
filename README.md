@@ -51,6 +51,7 @@ We make the FIDL leaderboard for unified ranking model's generalization across a
 </div>
 
 ## 🚤News
+- [2026.7.27] This is a starting case for training and inference using the SICA model on the OpenMMSec dataset with ForensicHub, which can be used as a reference: https://github.com/scu-zjz/Strarting_case_for_ForensicHub_by_SICA.
 - [2026.6.19] Our latest work, RITA, has been accepted by CVPR 2026 Findings. The repository is available at: https://github.com/scu-zjz/RITA.
 - [2026.6.8] Our proposed first unified fake image detection paradigm and comprehensive dataset, OpenMMSec, has been accepted by ICML 2026. The repository is available at: https://github.com/venus-guangjian/SICA_OpenMMSec.
 - [2025.7.17] Released some missing pretrain weights for DocTamper Detection models, see this [issue](https://github.com/scu-zjz/ForensicHub/issues/9) for details.
